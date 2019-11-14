@@ -1,2 +1,2 @@
 # test_20191114
-just testing
+This is just a testing repository to see how GitHub works
